@@ -1,1 +1,2 @@
 # Diwali_sales_analysis---using-python
+This project analyzes Diwali sales data to uncover insights into customer behavior, product trends, and regional preferences. By identifying top-selling product categories, exploring customer demographics, and revealing sales patterns during Diwali, the analysis helps optimize marketing strategies. Using tools like Pandas, Seaborn, and Matplotlib, the project cleans the data, performs exploratory analysis, and creates interactive visualizations to highlight key trends, including sales by zone and product category distribution.
